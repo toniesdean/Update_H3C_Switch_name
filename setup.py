@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: gbk -*-
 # wangxing6674@163.com
-# 单线程更改交换机名称
+# 多线程更改交换机名称
 
 
 import datetime
